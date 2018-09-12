@@ -1,0 +1,47 @@
+h1 {
+font-family: Spectral;
+font-size: 118px;
+text-align: right;
+color: #3e4256;
+line-height: 20px;
+margin-right: 80px;
+margin-top: 80px;
+}
+
+h2 {
+font-family: Spectral;
+font-weight: 100,200;
+text-align: right;
+font-size: 32px;
+color: #666b8b;
+line-height: .001px;
+margin-right: 85px
+}
+
+h3 {
+	font-family: Karla;
+	text-align: right;
+	font-size: 16px;
+	margin-right: 280px;
+	color: #8f93af;
+	line-height: 250px;
+}
+
+footer {
+	text-align: left;
+	font-family: Karla;
+	font-size: 16px;
+	color: white;
+	line-height: 0;
+	position: fixed;
+	bottom: 0;
+	left:0;
+	margin-left: 25px
+}
+
+body{
+	background-image: url(../img/backgroundimage.jpg); 
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
